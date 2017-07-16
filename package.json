@@ -1,6 +1,6 @@
 {
   "name": "dark-snow-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A CLI to speed up production with dark-snow modules",
   "main": "dsc.js",
   "scripts": {
@@ -19,5 +19,21 @@
     "inquirer": "^3.2.0",
     "mkdirp": "^0.5.1",
     "shebang": "0.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-snow/cli.git"
+  },
+  "keywords": [
+    "cli",
+    "darksnow",
+    "dark-snow",
+    "router",
+    "models"
+  ],
+  "bugs": {
+    "url": "https://github.com/dark-snow/cli/issues"
+  },
+  "homepage": "https://github.com/dark-snow/cli#readme"
 }
